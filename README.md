@@ -1,2 +1,13 @@
-# Heart-disease-Prediction
-Predicted heart disease risk using Machine Learning (Decision Tree, GridSearchCV). Built end-to-end pipeline — EDA, feature engineering, model tuning — evaluated on Accuracy, Precision, Recall &amp; F1-Score. Tools: Python, Pandas, Seaborn, Scikit-learn.
+# Heart Disease Prediction 🫀
+
+## Overview
+Predicted heart disease risk using Machine Learning classification.
+
+## Tools & Technologies
+Python | Pandas | Seaborn | Scikit-learn | Matplotlib
+
+## Key Highlights
+- End-to-end ML pipeline — EDA to model deployment
+- Decision Tree classifier optimized with GridSearchCV
+- Evaluated on Accuracy, Precision, Recall & F1-Score
+- Visual storytelling for non-technical stakeholders
